@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin/Release/net5.0/publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/cd33b629-c813-43bb-a425-a804d967e91d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/microorb"
+}
