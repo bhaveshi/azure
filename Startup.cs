@@ -54,6 +54,7 @@ namespace azure
             {
                 endpoints.MapControllers();
             });
+            
         }
     }
 }
